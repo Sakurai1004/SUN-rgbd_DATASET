@@ -1,0 +1,3 @@
+./OFFICIAL_SUNRGBD/*
+./sunrgbd_trainval/*
+!.gitkeep
