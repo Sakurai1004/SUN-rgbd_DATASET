@@ -1,3 +1,4 @@
 ./OFFICIAL_SUNRGBD/*
 ./sunrgbd_trainval/*
-!.gitkeep
+!./OFFICIAL_SUNRGBD/.gitkeep
+!./sunrgbd_trainval/.gitkeep
